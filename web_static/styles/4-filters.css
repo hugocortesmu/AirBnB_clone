@@ -13,6 +13,10 @@
   transform: translateY(-50%);
 }
 
+.filters button:hover {
+  opacity: 90%;
+}
+
 .container .filters {
   background-color: #ffffff;
   height: 70px;
@@ -20,9 +24,4 @@
   border: 1px solid #dddddd;
   border-radius: 4px;
   position: relative;
-}
-
-
-.filters button:hover {
-  opacity: 90%;
 }
