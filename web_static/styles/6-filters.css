@@ -54,6 +54,7 @@
   border-right: 1px solid #dddddd;
 }
 
+/* cuadro emergente or pop-up box */
 .filters .popover {
   display: none;
   position: absolute;
