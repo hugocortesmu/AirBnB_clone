@@ -37,6 +37,8 @@
   padding-left: 50px;
 }
 
+
+/* a:hover Selecciona <a>, pero solo cuando el puntero esté sobre el enlace */
 .filters button:hover {
   opacity: 90%;
 }

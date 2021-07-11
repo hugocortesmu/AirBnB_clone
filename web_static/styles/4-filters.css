@@ -13,6 +13,8 @@
   transform: translateY(-50%);
 }
 
+
+/* a:hover Selecciona <a>, pero solo cuando el puntero esté sobre el enlace */
 .filters button:hover {
   opacity: 90%;
 }
