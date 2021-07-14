@@ -55,6 +55,7 @@
 }
 
 /* cuadro emergente or pop-up box */
+
 .filters .popover {
   display: none;
   position: absolute;
@@ -65,6 +66,7 @@
   top: 100%;
   z-index: 1;
 }
+
 
 .filters .popover ul {
   list-style: none;

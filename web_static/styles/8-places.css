@@ -63,6 +63,13 @@
   width: 100px;
 }
 
+.places article .user,
+.places article .description {
+  align-self: flex-start;
+  text-align: start;
+  padding: 5px 0px;
+}
+
 .places article .information .max_guest {
   background: url("../images/icon_group.png") no-repeat top content-box;
 }
@@ -75,9 +82,3 @@
   background: url("../images/icon_bath.png") no-repeat top content-box;
 }
 
-.places article .user,
-.places article .description {
-  align-self: flex-start;
-  text-align: start;
-  padding: 5px 0px;
-}
